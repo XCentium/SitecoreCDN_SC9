@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("code")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Foundation.SitecoreCDN")]
+[assembly: AssemblyDescription("Lazy Loading CDN for Sitecore")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("code")]
+[assembly: AssemblyCompany("XCentium")]
+[assembly: AssemblyProduct("SitecoreCDN")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
